@@ -40,6 +40,11 @@ h3, h2 {
   text-align: left;
 }
 
+a {
+  text-decoration: none;
+}
+
+
 .midlle-section {
   display: inline-block;
 }
